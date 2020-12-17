@@ -1,2 +1,2 @@
 # pogoqrbot
-Reddit bot for turning Pokemon GO friend cods on /r/pokemongofriends into scannable QR codes
+Reddit bot for turning Pokemon GO friend codes on /r/pokemongofriends into scannable QR codes
